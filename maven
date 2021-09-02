@@ -1,0 +1,5 @@
+jdk is mandatory to run maven commands
+---
+java -version
+install apache maven
+sudo yum install maven -y
